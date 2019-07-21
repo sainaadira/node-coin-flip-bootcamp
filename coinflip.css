@@ -1,0 +1,65 @@
+body {
+  font-family: 'Vast Shadow', cursive;
+  color: #b6a97f;
+  text-align: center;
+  background-image: url(coinbg.jpg);
+  background-repeat: round;
+  background-size: contain;
+
+}
+
+h1 {
+  font-family: 'Vast Shadow', cursive;
+  font-size: 3em;
+  color: #b6a97f;
+}
+
+span{
+  color: #242422;
+  font-family: 'Pacifico', cursive;
+}
+
+#result {
+  font-size: 3em;
+  margin-right: 44px;
+}
+
+p {
+  font-size: 3.75em;
+  color: #b6a97f;
+  background-color: #242422;
+  margin: 31px 34%;
+  padding: 157px 22px;
+  width: 26%;
+  border-radius: 77%;
+}
+
+p:hover {
+  color: white;
+}
+
+input {
+  font-weight: bold;
+  font-size: 3em;
+  padding: 5px 43px;
+  border-radius: 20%;
+  color: white;
+  background-color: #b6a97f;
+}
+
+input:hover {
+  background-color: #242422;
+}
+
+footer {
+  font-size: .75em;
+}
+
+a {
+  color: #b6a97f;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #242422;
+}
